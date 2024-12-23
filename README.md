@@ -4,8 +4,8 @@
 ---
 Software Engineering | React js - symfony - c - c++ 
   
-[![](https://komarev.com/ghpvc/?username=Youssef-BS)](https://github.com/Nouaar)
-[![Linkedin]([https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/youssef-ben-said-13051122b/](https://www.linkedin.com/in/nourallah-maamar-673339343/))
+[![](https://komarev.com/ghpvc/?username=Nouaar)](https://github.com/Nouaar)
+[![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]([https://www.linkedin.com/in/youssef-ben-said-13051122b/](https://www.linkedin.com/in/nourallah-maamar-673339343/))
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:nouarallah.maamar@esprit.tn?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 </div>
